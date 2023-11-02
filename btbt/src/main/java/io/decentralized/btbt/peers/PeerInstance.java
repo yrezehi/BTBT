@@ -1,4 +1,4 @@
-package main.java.io.decentralized.btbt.peers;
+package io.decentralized.btbt.peers;
 
 import java.util.Date;
 import java.util.UUID;
